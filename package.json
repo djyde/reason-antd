@@ -1,0 +1,18 @@
+{
+  "name": "reason-antd",
+  "version": "0.0.0",
+  "description": "Antd Reason binding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "antd",
+    "reason"
+  ],
+  "author": "Randy",
+  "license": "MIT",
+  "dependencies": {
+    "bs-platform": "^2.2.3"
+  }
+}
